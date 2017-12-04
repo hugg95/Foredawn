@@ -51,5 +51,5 @@
 我呆了一分钟，就赶快逃离了这里。
 <div style="margin: 0 auto; width: 80%;">
     <img src="../img/shanhaiguan/DSC_0206.JPG" alt="从靖卤台的垛口望向海神庙" title="从靖卤台的垛口望向海神庙">
-    <p style="color: #eee"><i>从靖卤台的垛口望向海神庙</i><p>
+    <p><i style="color: #eee;">【从靖卤台的垛口望向海神庙】</i><p>
 </div>
