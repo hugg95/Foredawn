@@ -24,13 +24,13 @@
 小房间里能听到不远处火车站里那些火车的汽笛声，有的是到达，有的是启程，但声音听起来都一样，像某人第一次吹响了萨克斯。   
 
 <div align="center">
-    <img src="../img/shanhaiguan/night.jpeg" width="60%" align="center" alt="夜色中的靖边楼">
+    <img src="../img/shanhaiguan/night.jpeg" width="68%" align="center" alt="夜色中的靖边楼">
     <p><i>【夜色中的靖边楼】</i></p>
 </div>
 
 ### 老龙头
 <div align="center">
-    <img src="../img/shanhaiguan/morning.jpeg" width="60%" align="center" alt="清晨">
+    <img src="../img/shanhaiguan/morning.jpeg" width="68%" align="center" alt="清晨">
     <p><i>【清晨】</i></p>
 </div>
 
@@ -62,6 +62,6 @@
 我呆了一分钟，就赶快逃离了这里。   
 
 <div align="center">
-    <img src="../img/shanhaiguan/DSC_0206.JPG" width="60%" align="center" alt="从靖卤台的垛口望向海神庙">
+    <img src="../img/shanhaiguan/DSC_0206.JPG" width="68%" align="center" alt="从靖卤台的垛口望向海神庙">
     <p><i>【从靖卤台的垛口望向海神庙】</i></p>
 </div>
