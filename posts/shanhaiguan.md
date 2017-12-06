@@ -103,5 +103,4 @@
 
 <div align="center">
     <img src="../img/shanhaiguan/DSC_0318.JPG" width="68%" align="center" alt="城墙上刻满了名字">
-    <p><i>【城墙上刻满了名字】</i></p>
 </div>
