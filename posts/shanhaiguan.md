@@ -104,8 +104,8 @@
    
    
    
-<font color="#ddd">十二月的狸猫</font>   
-<i><font color="#ddd">12/07/2017</font></i>
+十二月的狸猫   
+<i>12/07/2017</i>
 
 <div align="center">
     <img src="../img/shanhaiguan/DSC_0318.JPG" width="68%" align="center" alt="城墙上刻满了名字">
