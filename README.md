@@ -1,3 +1,3 @@
 # Foredawn
 
-1. [山海关：一个人的走走停停](./posts/shanhaiguan.md)
+1. [山海关：天下第一关](./posts/shanhaiguan.md)
